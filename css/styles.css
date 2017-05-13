@@ -14,8 +14,9 @@ body {
 
 .focalPoint {
   font-family: 'Oswald', sans-serif;
+  font-size: 48px;
   position: absolute;
-  top: 150px;
+  top: 120px;
   left: 70px;
   width: 100%;
   color: white;
@@ -52,4 +53,16 @@ h2 {
   font-family: 'Shadows Into Light Two', sans-serif;
   font-size: 30px;
   font-weight: bold;
+}
+
+.panel-body {
+  text-align: center;
+}
+
+.panel-body h3 {
+  text-align: left;
+}
+
+.panel-title {
+  font-size: 30px;
 }
