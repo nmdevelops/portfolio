@@ -1,17 +1,9 @@
-.topnav li {
-  font-style: italic;
-  color: blue;
-  display: inline-block;
-  float: right;
-  margin-right: 30px;
+body {
+  font-family: 'Raleway', sans-serif;
 }
 
-.focalPoint {
-  position: absolute;
-  top: 150px;
-  left: 160px;
-  width: 100%;
-  color: white;
+.header-container {
+  position: relative;
 }
 
 .header-image {
@@ -20,13 +12,44 @@
   height: 200px;
 }
 
+.focalPoint {
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  top: 150px;
+  left: 70px;
+  width: 100%;
+  color: white;
+}
+
 .topnav-container {
-  margin: 10px;
-  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 1px;
   background-color: #efefef;
+  text-align: right;
+}
+
+.topnav li {
+  font-style: italic;
+  color: blue;
+  display: inline-block;
+  margin-right: 30px;
+  vertical-align: middle;
+}
+
+h2 {
+  padding: 5px;
+  margin-left: 0px;
 }
 
 .intro p {
   font-style: italic;
+  font-weight: bold;
+}
+
+.experience {
+  font-family: 'Shadows Into Light Two', sans-serif;
+  font-size: 30px;
   font-weight: bold;
 }
