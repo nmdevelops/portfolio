@@ -22,6 +22,9 @@ _There are formatting issues with regards to site responsiveness to screen size.
 
 _If you discover any issues email me at nm.develops@gmail.com_
 
+[Click here](https://nmdevelops.github.io/portfolio) to check out my code.
+
+
 ## Technologies Used
 
 * _Atom_

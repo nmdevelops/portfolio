@@ -12,6 +12,14 @@ body {
   height: 200px;
 }
 
+.body-image {
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
 .focalPoint {
   font-family: 'Oswald', sans-serif;
   font-size: 48px;
